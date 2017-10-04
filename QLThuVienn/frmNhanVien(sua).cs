@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace QLThuVien
+namespace QLThuViennhom1
 {
     public partial class frmNhanVien : Form
     {
