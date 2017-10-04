@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace QLThuVien
+namespace QLThuVienNhom1
 {
     public partial class Giaodien : Form
     {
